@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 altair==5.3.0
 attrs==23.2.0
 blinker==1.7.0
@@ -34,6 +35,9 @@ rpds-py==0.18.0
 semver==3.0.2
 six==1.16.0
 smmap==5.0.1
+=======
+Pillow==10.3.0
+>>>>>>> 6dc9b333ab02d791786951db0106d878b3d9bc34
 streamlit==1.12.0
 toml==0.10.2
 toolz==0.12.1
